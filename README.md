@@ -1,4 +1,4 @@
-# Hyperparameter Tuning of Hugging Face Model using Ray
+# Hyperparameter Search using Ray Tune & Hugging Face
 
 This repository holds some example code for tuning hyperparameters of a Hugging Face model using Ray, in Domino.
 
